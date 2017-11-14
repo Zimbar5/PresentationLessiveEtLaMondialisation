@@ -1,7 +1,7 @@
 <?php
 session_start();
 if (isset($_COOKIE['Connex'])){
-	
+	//udzaio//
 }else{
 	header('Location: Acces.php');
 }
